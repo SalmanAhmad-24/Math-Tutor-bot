@@ -18,7 +18,7 @@ model = "gpt-4o"  # "gpt-3.5-turbo-16k"
 
 # == Run it
 class StudyBuddy:
-    assis_id="asst_jNa5cQC77bQhZYPJsRVrjE6H"
+    assis_id="asst_fXHaZEr8V5rzpJUMy4TKVBSm"
     thread_id =None
     # thread_id="thread_5WtanbVPeinJWk24dXTyAwhw"
 
